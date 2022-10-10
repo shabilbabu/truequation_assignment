@@ -1,16 +1,56 @@
 # truequation_assignment
 
-A new Flutter project.
+## Download Apks
 
-## Getting Started
+apks for diffrent platforms
 
-This project is a starting point for a Flutter application.
+* [arm64-v8a](https://drive.google.com/file/d/1nLvtiYtvux5l-YsNKyNThUhAJ-Q7pa3R/view?usp=sharing)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* [armeabi-v7a](https://drive.google.com/file/d/1FwCgIlvEPWU2VKO6TaA9acYHyijGcKQH/view?usp=sharing)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+* [app-x86_64](https://drive.google.com/file/d/1Ij2dLtMKT8QSaqsVyvgO91V3FpxOQ7G7/view?usp=sharing)
+
+## After Download
+
+## How to Use 
+
+*Step 1:*
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/shabilbabu/fininfocom_assignment.git
+
+```
+
+*Step 2:*
+
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+
+ *Step 3:*
+
+For run the project :  
+```
+flutter run 
+
+## Followed Architecture
+
+MVC
+
+## Followed StateManagement
+
+Provider
+
+## Libraries & Tools Used 
+* [provider](https://pub.dev/packages/provider)
+* [screen_util](https://pub.dev/packages/flutter_screenutil)
+* [google_font](https://pub.dev/packages/google_fonts)
+
+
